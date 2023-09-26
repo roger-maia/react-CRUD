@@ -24,7 +24,7 @@ Create a new React app using Create React App (I Suggest you use VsCode download
 5. To start the App server, run:
     npm start
 
-I´ll run the React app, and you need to access it in your web browser.
+It´ll run the React app, and you need to access it in your web browser.
 You can add, edit, and delete tasks using the provided UI.
 Please, you need to improve this example, I appreciate that.
 
